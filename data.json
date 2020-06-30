@@ -1,0 +1,2698 @@
+{
+  "nodes": [
+    {
+      "id": "E3: Morula",
+      "group": 0
+    },
+    {
+      "id": "E3.5: ICM",
+      "group": 1
+    },
+    {
+      "id": "E3.5: TE",
+      "group": 1
+    },
+    {
+      "id": "E4.5: Epiblast",
+      "group": 2
+    },
+    {
+      "id": "E4.5: Hypoblast",
+      "group": 2
+    },
+    {
+      "id": "E4.5: TE",
+      "group": 2
+    },
+    {
+      "id": "E5.5: Epiblast",
+      "group": 3
+    },
+    {
+      "id": "E5.5: Extraembryonic Endoderm",
+      "group": 3
+    },
+    {
+      "id": "E5.5: Parietal Endoderm",
+      "group": 3
+    },
+    {
+      "id": "E5.5: Visceral Endoderm",
+      "group": 3
+    },
+    {
+      "id": "E5.5: Extraembryonic Ectoderm",
+      "group": 3
+    },
+    {
+      "id": "E6.5: Epiblast",
+      "group": 4
+    },
+    {
+      "id": "E6.5: Primitive Streak",
+      "group": 4
+    },
+    {
+      "id": "E6.5: Extraembryonic Endoderm",
+      "group": 4
+    },
+    {
+      "id": "E6.5: Parietal Endoderm",
+      "group": 4
+    },
+    {
+      "id": "E6.5: Visceral Endoderm",
+      "group": 4
+    },
+    {
+      "id": "E6.5: Extraembryonic Ectoderm",
+      "group": 4
+    },
+    {
+      "id": "E6.75: Epiblast",
+      "group": 5
+    },
+    {
+      "id": "E6.75: Nascent Mesoderm",
+      "group": 5
+    },
+    {
+      "id": "E6.75: Primitive Streak",
+      "group": 5
+    },
+    {
+      "id": "E6.75: Extraembryonic Endoderm",
+      "group": 5
+    },
+    {
+      "id": "E6.75: Parietal Endoderm",
+      "group": 5
+    },
+    {
+      "id": "E6.75: Visceral Endoderm",
+      "group": 5
+    },
+    {
+      "id": "E6.75: Extraembryonic Ectoderm",
+      "group": 5
+    },
+    {
+      "id": "E7: Epiblast",
+      "group": 6
+    },
+    {
+      "id": "E7: Hemato-endothelial Progenitors",
+      "group": 6
+    },
+    {
+      "id": "E7: Nascent Mesoderm",
+      "group": 6
+    },
+    {
+      "id": "E7: Anterior Primitive Streak",
+      "group": 6
+    },
+    {
+      "id": "E7: Primitive Streak",
+      "group": 6
+    },
+    {
+      "id": "E7: Extraembryonic Endoderm",
+      "group": 6
+    },
+    {
+      "id": "E7: Parietal Endoderm",
+      "group": 6
+    },
+    {
+      "id": "E7: Visceral Endoderm",
+      "group": 6
+    },
+    {
+      "id": "E7: Extraembryonic Ectoderm",
+      "group": 6
+    },
+    {
+      "id": "E7.25: Epiblast",
+      "group": 7
+    },
+    {
+      "id": "E7.25: Hemato-endothelial Progenitors",
+      "group": 7
+    },
+    {
+      "id": "E7.25: Mesenchyme",
+      "group": 7
+    },
+    {
+      "id": "E7.25: Nascent Mesoderm",
+      "group": 7
+    },
+    {
+      "id": "E7.25: Anterior Primitive Streak",
+      "group": 7
+    },
+    {
+      "id": "E7.25: Def. Endoderm",
+      "group": 7
+    },
+    {
+      "id": "E7.25: PGC",
+      "group": 7
+    },
+    {
+      "id": "E7.25: Primitive Streak",
+      "group": 7
+    },
+    {
+      "id": "E7.25: Extraembryonic Endoderm",
+      "group": 7
+    },
+    {
+      "id": "E7.25: Parietal Endoderm",
+      "group": 7
+    },
+    {
+      "id": "E7.25: Visceral Endoderm",
+      "group": 7
+    },
+    {
+      "id": "E7.25: Extraembryonic Ectoderm",
+      "group": 7
+    },
+    {
+      "id": "E7.5: Epiblast",
+      "group": 8
+    },
+    {
+      "id": "E7.5: Neuroectoderm",
+      "group": 8
+    },
+    {
+      "id": "E7.5: Surface Ectoderm",
+      "group": 8
+    },
+    {
+      "id": "E7.5: Blood Progenitors",
+      "group": 8
+    },
+    {
+      "id": "E7.5: Hemato-endothelial Progenitors",
+      "group": 8
+    },
+    {
+      "id": "E7.5: Intermediate Mesoderm",
+      "group": 8
+    },
+    {
+      "id": "E7.5: Mesenchyme",
+      "group": 8
+    },
+    {
+      "id": "E7.5: Nascent Mesoderm",
+      "group": 8
+    },
+    {
+      "id": "E7.5: Paraxial Mesoderm",
+      "group": 8
+    },
+    {
+      "id": "E7.5: Pharyngeal Mesoderm",
+      "group": 8
+    },
+    {
+      "id": "E7.5: Def. Endoderm",
+      "group": 8
+    },
+    {
+      "id": "E7.5: Gut",
+      "group": 8
+    },
+    {
+      "id": "E7.5: PGC",
+      "group": 8
+    },
+    {
+      "id": "E7.5: Caudal Mesoderm",
+      "group": 8
+    },
+    {
+      "id": "E7.5: Notochord",
+      "group": 8
+    },
+    {
+      "id": "E7.5: Primitive Streak",
+      "group": 8
+    },
+    {
+      "id": "E7.5: Extraembryonic Endoderm",
+      "group": 8
+    },
+    {
+      "id": "E7.5: Parietal Endoderm",
+      "group": 8
+    },
+    {
+      "id": "E7.5: Visceral Endoderm",
+      "group": 8
+    },
+    {
+      "id": "E7.5: Extraembryonic Ectoderm",
+      "group": 8
+    },
+    {
+      "id": "E7.75: Neuroectoderm",
+      "group": 9
+    },
+    {
+      "id": "E7.75: Surface Ectoderm",
+      "group": 9
+    },
+    {
+      "id": "E7.75: Blood Progenitors",
+      "group": 9
+    },
+    {
+      "id": "E7.75: Primitive Erythroid",
+      "group": 9
+    },
+    {
+      "id": "E7.75: Endothelium",
+      "group": 9
+    },
+    {
+      "id": "E7.75: Hemato-endothelial Progenitors",
+      "group": 9
+    },
+    {
+      "id": "E7.75: Allantois",
+      "group": 9
+    },
+    {
+      "id": "E7.75: Intermediate Mesoderm",
+      "group": 9
+    },
+    {
+      "id": "E7.75: Mesenchyme",
+      "group": 9
+    },
+    {
+      "id": "E7.75: Nascent Mesoderm",
+      "group": 9
+    },
+    {
+      "id": "E7.75: Paraxial Mesoderm",
+      "group": 9
+    },
+    {
+      "id": "E7.75: Cardiomyocytes",
+      "group": 9
+    },
+    {
+      "id": "E7.75: Pharyngeal Mesoderm",
+      "group": 9
+    },
+    {
+      "id": "E7.75: Def. Endoderm",
+      "group": 9
+    },
+    {
+      "id": "E7.75: Gut",
+      "group": 9
+    },
+    {
+      "id": "E7.75: PGC",
+      "group": 9
+    },
+    {
+      "id": "E7.75: Caudal Mesoderm",
+      "group": 9
+    },
+    {
+      "id": "E7.75: Notochord",
+      "group": 9
+    },
+    {
+      "id": "E7.75: Extraembryonic Endoderm",
+      "group": 9
+    },
+    {
+      "id": "E7.75: Parietal Endoderm",
+      "group": 9
+    },
+    {
+      "id": "E7.75: Extraembryonic Ectoderm",
+      "group": 9
+    },
+    {
+      "id": "E8: Neuroectoderm",
+      "group": 10
+    },
+    {
+      "id": "E8: Surface Ectoderm",
+      "group": 10
+    },
+    {
+      "id": "E8: Blood Progenitors",
+      "group": 10
+    },
+    {
+      "id": "E8: Primitive Erythroid",
+      "group": 10
+    },
+    {
+      "id": "E8: Endothelium",
+      "group": 10
+    },
+    {
+      "id": "E8: Hemato-endothelial Progenitors",
+      "group": 10
+    },
+    {
+      "id": "E8: Allantois",
+      "group": 10
+    },
+    {
+      "id": "E8: Intermediate Mesoderm",
+      "group": 10
+    },
+    {
+      "id": "E8: Somitic Mesoderm",
+      "group": 10
+    },
+    {
+      "id": "E8: Mesenchyme",
+      "group": 10
+    },
+    {
+      "id": "E8: Paraxial Mesoderm",
+      "group": 10
+    },
+    {
+      "id": "E8: Cardiomyocytes",
+      "group": 10
+    },
+    {
+      "id": "E8: Pharyngeal Mesoderm",
+      "group": 10
+    },
+    {
+      "id": "E8: Def. Endoderm",
+      "group": 10
+    },
+    {
+      "id": "E8: Gut",
+      "group": 10
+    },
+    {
+      "id": "E8: PGC",
+      "group": 10
+    },
+    {
+      "id": "E8: Caudal Mesoderm",
+      "group": 10
+    },
+    {
+      "id": "E8: Notochord",
+      "group": 10
+    },
+    {
+      "id": "E8: Extraembryonic Endoderm",
+      "group": 10
+    },
+    {
+      "id": "E8: Parietal Endoderm",
+      "group": 10
+    },
+    {
+      "id": "E8: Extraembryonic Ectoderm",
+      "group": 10
+    },
+    {
+      "id": "E8.25: Dorsal Neural Tube",
+      "group": 11
+    },
+    {
+      "id": "E8.25: Neural Crest",
+      "group": 11
+    },
+    {
+      "id": "E8.25: Neural Tube (Pax2+)",
+      "group": 11
+    },
+    {
+      "id": "E8.25: Neuroectoderm",
+      "group": 11
+    },
+    {
+      "id": "E8.25: Surface Ectoderm",
+      "group": 11
+    },
+    {
+      "id": "E8.25: Blood Progenitors",
+      "group": 11
+    },
+    {
+      "id": "E8.25: Primitive Erythroid",
+      "group": 11
+    },
+    {
+      "id": "E8.25: Endothelium",
+      "group": 11
+    },
+    {
+      "id": "E8.25: Hemato-endothelial Progenitors",
+      "group": 11
+    },
+    {
+      "id": "E8.25: Allantois",
+      "group": 11
+    },
+    {
+      "id": "E8.25: Intermediate Mesoderm",
+      "group": 11
+    },
+    {
+      "id": "E8.25: Somitic Mesoderm",
+      "group": 11
+    },
+    {
+      "id": "E8.25: Mesenchyme",
+      "group": 11
+    },
+    {
+      "id": "E8.25: Paraxial Mesoderm",
+      "group": 11
+    },
+    {
+      "id": "E8.25: Cardiomyocytes",
+      "group": 11
+    },
+    {
+      "id": "E8.25: Pharyngeal Mesoderm",
+      "group": 11
+    },
+    {
+      "id": "E8.25: Def. Endoderm",
+      "group": 11
+    },
+    {
+      "id": "E8.25: Gut",
+      "group": 11
+    },
+    {
+      "id": "E8.25: PGC",
+      "group": 11
+    },
+    {
+      "id": "E8.25: Nmp",
+      "group": 11
+    },
+    {
+      "id": "E8.25: Extraembryonic Endoderm",
+      "group": 11
+    },
+    {
+      "id": "E8.25: Extraembryonic Ectoderm",
+      "group": 11
+    },
+    {
+      "id": "E8.5: Dorsal Neural Tube",
+      "group": 12
+    },
+    {
+      "id": "E8.5: Neural Crest",
+      "group": 12
+    },
+    {
+      "id": "E8.5: Neural Tube (Pax2+)",
+      "group": 12
+    },
+    {
+      "id": "E8.5: Surface Ectoderm",
+      "group": 12
+    },
+    {
+      "id": "E8.5: Blood Progenitors",
+      "group": 12
+    },
+    {
+      "id": "E8.5: Primitive Erythroid",
+      "group": 12
+    },
+    {
+      "id": "E8.5: Endothelium",
+      "group": 12
+    },
+    {
+      "id": "E8.5: Hemato-endothelial Progenitors",
+      "group": 12
+    },
+    {
+      "id": "E8.5: Allantois",
+      "group": 12
+    },
+    {
+      "id": "E8.5: Intermediate Mesoderm",
+      "group": 12
+    },
+    {
+      "id": "E8.5: Somitic Mesoderm",
+      "group": 12
+    },
+    {
+      "id": "E8.5: Mesenchyme",
+      "group": 12
+    },
+    {
+      "id": "E8.5: Paraxial Mesoderm",
+      "group": 12
+    },
+    {
+      "id": "E8.5: Cardiomyocytes",
+      "group": 12
+    },
+    {
+      "id": "E8.5: Pharyngeal Mesoderm",
+      "group": 12
+    },
+    {
+      "id": "E8.5: Def. Endoderm",
+      "group": 12
+    },
+    {
+      "id": "E8.5: Gut",
+      "group": 12
+    },
+    {
+      "id": "E8.5: Nmp",
+      "group": 12
+    },
+    {
+      "id": "E8.5: Extraembryonic Endoderm",
+      "group": 12
+    },
+    {
+      "id": "E9.5: Dorsal Neural Tube",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Neural Progenitor",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Neural Crest",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Floor Plate",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Isthmic Organizer Cells",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Oligodendrocyte Progenitors",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Radial Glia",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Sensory Neuron",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Epithelial Cells",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Olfactory Epithelium",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Otic Epithelium",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Renal Epithelium",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Urothelium",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Blood Progenitors",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Primitive Erythroid",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Endothelium",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Intermediate Mesoderm",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Limb Mesenchyme Progenitors",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Somitic Mesoderm",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Mesenchyme",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Chondrocyte Progenitors",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Jaw And Tooth Progenitors",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Osteoblast Progenitors",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Skeletal Muscle Progenitors",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Stromal Cells",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Cardiomyocytes",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Pharyngeal Mesoderm",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Intestinal Epithelium",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Nmp",
+      "group": 13
+    },
+    {
+      "id": "E9.5: Extraembryonic Endoderm",
+      "group": 13
+    },
+    {
+      "id": "E10.5: Dorsal Neural Tube",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Cholinergic Neuron",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Excitatory Neuron",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Granule Neuron",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Inhibitory Interneuron",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Inhibitory Neuron Progenitors",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Neural Progenitor",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Postmitotic Premature Neuron",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Neural Crest",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Floor Plate",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Isthmic Organizer Cells",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Ependymal Cells",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Oligodendrocyte Progenitors",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Radial Glia",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Sensory Neuron",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Sensory Neuron (Cacna1E+)",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Epithelial Cells",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Olfactory Epithelium",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Otic Epithelium",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Renal Epithelium",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Urothelium",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Megakaryocytes",
+      "group": 14
+    },
+    {
+      "id": "E10.5: White Blood Cells",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Primitive Erythroid",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Endothelium",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Intermediate Mesoderm",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Limb Mesenchyme Progenitors",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Mesenchyme",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Early Chondrocyte",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Jaw And Tooth Progenitors",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Chondrocyte And Osteoblast",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Osteoblast Progenitors",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Myocytes",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Skeletal Muscle Progenitors",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Stromal Cells",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Cardiomyocytes",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Hepatocytes",
+      "group": 14
+    },
+    {
+      "id": "E10.5: Intestinal Epithelium",
+      "group": 14
+    },
+    {
+      "id": "E11.5: Dorsal Neural Tube",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Cholinergic Neuron",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Excitatory Neuron",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Granule Neuron",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Inhibitory Interneuron",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Inhibitory Neuron",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Inhibitory Neuron Progenitors",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Neural Progenitor",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Postmitotic Premature Neuron",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Neural Crest",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Floor Plate",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Isthmic Organizer Cells",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Ependymal Cells",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Oligodendrocyte Progenitors",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Premature Oligodendrocyte",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Radial Glia",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Sensory Neuron",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Sensory Neuron (Cacna1E+)",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Epithelial Cells",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Pericardium",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Olfactory Epithelium",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Otic Epithelium",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Renal Epithelium",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Urothelium",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Megakaryocytes",
+      "group": 15
+    },
+    {
+      "id": "E11.5: White Blood Cells",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Def. Erythrocyte",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Primitive Erythroid",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Endothelium",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Intermediate Mesoderm",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Limb Mesenchyme Progenitors",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Early Chondrocyte",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Jaw And Tooth Progenitors",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Chondrocyte And Osteoblast",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Connective Tissue Progenitors",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Myocytes",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Skeletal Muscle Progenitors",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Stromal Cells",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Cardiomyocytes",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Hepatocytes",
+      "group": 15
+    },
+    {
+      "id": "E11.5: Intestinal Epithelium",
+      "group": 15
+    },
+    {
+      "id": "E12.5: Cholinergic Neuron",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Excitatory Neuron",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Granule Neuron",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Inhibitory Interneuron",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Inhibitory Neuron",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Inhibitory Neuron Progenitors",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Neural Progenitor",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Postmitotic Premature Neuron",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Neural Crest",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Floor Plate",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Isthmic Organizer Cells",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Ependymal Cells",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Oligodendrocyte Progenitors",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Premature Oligodendrocyte",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Radial Glia",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Sensory Neuron",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Sensory Neuron (Cacna1E+)",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Epithelial Cells",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Pericardium",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Olfactory Epithelium",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Otic Epithelium",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Retina Epithelium",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Renal Epithelium",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Urothelium",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Megakaryocytes",
+      "group": 16
+    },
+    {
+      "id": "E12.5: White Blood Cells",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Def. Erythrocyte",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Endothelium",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Intermediate Mesoderm",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Limb Mesenchyme Progenitors",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Early Chondrocyte",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Jaw And Tooth Progenitors",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Chondrocyte And Osteoblast",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Osteoblast",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Connective Tissue Progenitors",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Myocytes",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Skeletal Muscle Progenitors",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Stromal Cells",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Cardiomyocytes",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Hepatocytes",
+      "group": 16
+    },
+    {
+      "id": "E12.5: Intestinal Epithelium",
+      "group": 16
+    },
+    {
+      "id": "E13.5: Excitatory Neuron",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Granule Neuron",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Inhibitory Interneuron",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Inhibitory Neuron",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Inhibitory Neuron Progenitors",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Neural Progenitor",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Postmitotic Premature Neuron",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Neural Crest",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Floor Plate",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Isthmic Organizer Cells",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Ependymal Cells",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Oligodendrocyte Progenitors",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Premature Oligodendrocyte",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Radial Glia",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Sensory Neuron",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Sensory Neuron (Cacna1E+)",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Epithelial Cells",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Pericardium",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Olfactory Epithelium",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Otic Epithelium",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Retina Epithelium",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Renal Epithelium",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Urothelium",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Megakaryocytes",
+      "group": 17
+    },
+    {
+      "id": "E13.5: White Blood Cells",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Def. Erythrocyte",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Endothelium",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Intermediate Mesoderm",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Limb Mesenchyme Progenitors",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Early Chondrocyte",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Jaw And Tooth Progenitors",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Chondrocyte And Osteoblast",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Osteoblast",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Connective Tissue Progenitors",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Myocytes",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Stromal Cells",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Cardiomyocytes",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Hepatocytes",
+      "group": 17
+    },
+    {
+      "id": "E13.5: Intestinal Epithelium",
+      "group": 17
+    }
+  ],
+  "links": [
+    {
+      "source": "E3: Murola",
+      "target": "E3.5: ICM"
+    },
+    {
+      "source": "E3: Murola",
+      "target": "E3.5: TE"
+    },
+    {
+      "source": "E3.5: ICM",
+      "target": "E4.5: Epiblast"
+    },
+    {
+      "source": "E3.5: ICM",
+      "target": "E4.5: Hypoblast"
+    },
+    {
+      "source": "E3.5: TE",
+      "target": "E4.5: TE"
+    },
+    {
+      "source": "E4.5: Epiblast",
+      "target": "E5.5: Epiblast"
+    },
+    {
+      "source": "E4.5: Hypoblast",
+      "target": "E5.5: Extraembryonic Endoderm"
+    },
+    {
+      "source": "E4.5: Hypoblast",
+      "target": "E5.5: Parietal Endoderm"
+    },
+    {
+      "source": "E4.5: Hypoblast",
+      "target": "E5.5: Visceral Endoderm"
+    },
+    {
+      "source": "E4.5: TE",
+      "target": "E5.5: Extraembryonic Ectoderm"
+    },
+    {
+      "source": "E5.5: Epiblast",
+      "target": "E6.5: Epiblast"
+    },
+    {
+      "source": "E5.5: Epiblast",
+      "target": "E6.5: Primitive Streak"
+    },
+    {
+      "source": "E5.5: Extraembryonic Endoderm",
+      "target": "E6.5: Extraembryonic Endoderm"
+    },
+    {
+      "source": "E5.5: Parietal Endoderm",
+      "target": "E6.5: Parietal Endoderm"
+    },
+    {
+      "source": "E5.5: Visceral Endoderm",
+      "target": "E6.5: Visceral Endoderm"
+    },
+    {
+      "source": "E5.5: Extraembryonic Ectoderm",
+      "target": "E6.5: Extraembryonic Ectoderm"
+    },
+    {
+      "source": "E6.5: Epiblast",
+      "target": "E6.75: Epiblast"
+    },
+    {
+      "source": "E6.5: Primitive Streak",
+      "target": "E6.75: Nascent Mesoderm"
+    },
+    {
+      "source": "E6.5: Primitive Streak",
+      "target": "E6.75: Primitive Streak"
+    },
+    {
+      "source": "E6.5: Extraembryonic Endoderm",
+      "target": "E6.75: Extraembryonic Endoderm"
+    },
+    {
+      "source": "E6.5: Parietal Endoderm",
+      "target": "E6.75: Parietal Endoderm"
+    },
+    {
+      "source": "E6.5: Visceral Endoderm",
+      "target": "E6.75: Visceral Endoderm"
+    },
+    {
+      "source": "E6.5: Extraembryonic Ectoderm",
+      "target": "E6.75: Extraembryonic Ectoderm"
+    },
+    {
+      "source": "E6.75: Epiblast",
+      "target": "E7: Epiblast"
+    },
+    {
+      "source": "E6.75: Nascent Mesoderm",
+      "target": "E7: Hemato-endothelial Progenitors"
+    },
+    {
+      "source": "E6.75: Nascent Mesoderm",
+      "target": "E7: Nascent Mesoderm"
+    },
+    {
+      "source": "E6.75: Primitive Streak",
+      "target": "E7: Anterior Primitive Streak"
+    },
+    {
+      "source": "E6.75: Primitive Streak",
+      "target": "E7: Primitive Streak"
+    },
+    {
+      "source": "E6.75: Extraembryonic Endoderm",
+      "target": "E7: Extraembryonic Endoderm"
+    },
+    {
+      "source": "E6.75: Parietal Endoderm",
+      "target": "E7: Parietal Endoderm"
+    },
+    {
+      "source": "E6.75: Visceral Endoderm",
+      "target": "E7: Visceral Endoderm"
+    },
+    {
+      "source": "E6.75: Extraembryonic Ectoderm",
+      "target": "E7: Extraembryonic Ectoderm"
+    },
+    {
+      "source": "E7: Epiblast",
+      "target": "E7.25: Epiblast"
+    },
+    {
+      "source": "E7: Hemato-Endothelial Progenitors",
+      "target": "E7.25: Hemato-endothelial Progenitors"
+    },
+    {
+      "source": "E7: Nascent Mesoderm",
+      "target": "E7.25: Mesenchyme"
+    },
+    {
+      "source": "E7: Nascent Mesoderm",
+      "target": "E7.25: Nascent Mesoderm"
+    },
+    {
+      "source": "E7: Anterior Primitive Streak",
+      "target": "E7.25: Anterior Primitive Streak"
+    },
+    {
+      "source": "E7: Anterior Primitive Streak",
+      "target": "E7.25: Def. Endoderm"
+    },
+    {
+      "source": "E7: Primitive Streak",
+      "target": "E7.25: PGC"
+    },
+    {
+      "source": "E7: Primitive Streak",
+      "target": "E7.25: Primitive Streak"
+    },
+    {
+      "source": "E7: Extraembryonic Endoderm",
+      "target": "E7.25: Extraembryonic Endoderm"
+    },
+    {
+      "source": "E7: Parietal Endoderm",
+      "target": "E7.25: Parietal Endoderm"
+    },
+    {
+      "source": "E7: Visceral Endoderm",
+      "target": "E7.25: Visceral Endoderm"
+    },
+    {
+      "source": "E7: Extraembryonic Ectoderm",
+      "target": "E7.25: Extraembryonic Ectoderm"
+    },
+    {
+      "source": "E7.25: Epiblast",
+      "target": "E7.5: Epiblast"
+    },
+    {
+      "source": "E7.25: Epiblast",
+      "target": "E7.5: Neuroectoderm"
+    },
+    {
+      "source": "E7.25: Epiblast",
+      "target": "E7.5: Surface Ectoderm"
+    },
+    {
+      "source": "E7.25: Hemato-endothelial Progenitors",
+      "target": "E7.5: Blood Progenitors"
+    },
+    {
+      "source": "E7.25: Hemato-Endothelial Progenitors",
+      "target": "E7.5: Hemato-endothelial Progenitors"
+    },
+    {
+      "source": "E7.25: Mesenchyme",
+      "target": "E7.5: Intermediate Mesoderm"
+    },
+    {
+      "source": "E7.25: Mesenchyme",
+      "target": "E7.5: Mesenchyme"
+    },
+    {
+      "source": "E7.25: Nascent Mesoderm",
+      "target": "E7.5: Nascent Mesoderm"
+    },
+    {
+      "source": "E7.25: Nascent Mesoderm",
+      "target": "E7.5: Paraxial Mesoderm"
+    },
+    {
+      "source": "E7.25: Nascent Mesoderm",
+      "target": "E7.5: Pharyngeal Mesoderm"
+    },
+    {
+      "source": "E7.25: Def. Endoderm",
+      "target": "E7.5: Def. Endoderm"
+    },
+    {
+      "source": "E7.25: Def. Endoderm",
+      "target": "E7.5: Gut"
+    },
+    {
+      "source": "E7.25: PGC",
+      "target": "E7.5: PGC"
+    },
+    {
+      "source": "E7.25: Primitive Streak",
+      "target": "E7.5: Caudal Mesoderm"
+    },
+    {
+      "source": "E7.25: Primitive Streak",
+      "target": "E7.5: Notochord"
+    },
+    {
+      "source": "E7.25: Primitive Streak",
+      "target": "E7.5: Primitive Streak"
+    },
+    {
+      "source": "E7.25: Extraembryonic Endoderm",
+      "target": "E7.5: Extraembryonic Endoderm"
+    },
+    {
+      "source": "E7.25: Parietal Endoderm",
+      "target": "E7.5: Parietal Endoderm"
+    },
+    {
+      "source": "E7.25: Visceral Endoderm",
+      "target": "E7.5: Visceral Endoderm"
+    },
+    {
+      "source": "E7.25: Extraembryonic Ectoderm",
+      "target": "E7.5: Extraembryonic Ectoderm"
+    },
+    {
+      "source": "E7.5: Neuroectoderm",
+      "target": "E7.75: Neuroectoderm"
+    },
+    {
+      "source": "E7.5: Surface Ectoderm",
+      "target": "E7.75: Surface Ectoderm"
+    },
+    {
+      "source": "E7.5: Blood Progenitors",
+      "target": "E7.75: Blood Progenitors"
+    },
+    {
+      "source": "E7.5: Blood Progenitors",
+      "target": "E7.75: Primitive Erythroid"
+    },
+    {
+      "source": "E7.5: Hemato-endothelial Progenitors",
+      "target": "E7.75: Endothelium"
+    },
+    {
+      "source": "E7.5: Hemato-Endothelial Progenitors",
+      "target": "E7.75: Hemato-endothelial Progenitors"
+    },
+    {
+      "source": "E7.5: Intermediate Mesoderm",
+      "target": "E7.75: Allantois"
+    },
+    {
+      "source": "E7.5: Intermediate Mesoderm",
+      "target": "E7.75: Intermediate Mesoderm"
+    },
+    {
+      "source": "E7.5: Mesenchyme",
+      "target": "E7.75: Mesenchyme"
+    },
+    {
+      "source": "E7.5: Nascent Mesoderm",
+      "target": "E7.75: Nascent Mesoderm"
+    },
+    {
+      "source": "E7.5: Paraxial Mesoderm",
+      "target": "E7.75: Paraxial Mesoderm"
+    },
+    {
+      "source": "E7.5: Pharyngeal Mesoderm",
+      "target": "E7.75: Cardiomyocytes"
+    },
+    {
+      "source": "E7.5: Pharyngeal Mesoderm",
+      "target": "E7.75: Pharyngeal Mesoderm"
+    },
+    {
+      "source": "E7.5: Def. Endoderm",
+      "target": "E7.75: Def. Endoderm"
+    },
+    {
+      "source": "E7.5: Gut",
+      "target": "E7.75: Gut"
+    },
+    {
+      "source": "E7.5: PGC",
+      "target": "E7.75: PGC"
+    },
+    {
+      "source": "E7.5: Caudal Mesoderm",
+      "target": "E7.75: Caudal Mesoderm"
+    },
+    {
+      "source": "E7.5: Notochord",
+      "target": "E7.75: Notochord"
+    },
+    {
+      "source": "E7.5: Extraembryonic Endoderm",
+      "target": "E7.75: Extraembryonic Endoderm"
+    },
+    {
+      "source": "E7.5: Parietal Endoderm",
+      "target": "E7.75: Parietal Endoderm"
+    },
+    {
+      "source": "E7.5: Extraembryonic Ectoderm",
+      "target": "E7.75: Extraembryonic Ectoderm"
+    },
+    {
+      "source": "E7.75: Neuroectoderm",
+      "target": "E8: Neuroectoderm"
+    },
+    {
+      "source": "E7.75: Surface Ectoderm",
+      "target": "E8: Surface Ectoderm"
+    },
+    {
+      "source": "E7.75: Blood Progenitors",
+      "target": "E8: Blood Progenitors"
+    },
+    {
+      "source": "E7.75: Primitive Erythroid",
+      "target": "E8: Primitive Erythroid"
+    },
+    {
+      "source": "E7.75: Endothelium",
+      "target": "E8: Endothelium"
+    },
+    {
+      "source": "E7.75: Hemato-Endothelial Progenitors",
+      "target": "E8: Hemato-endothelial Progenitors"
+    },
+    {
+      "source": "E7.75: Allantois",
+      "target": "E8: Allantois"
+    },
+    {
+      "source": "E7.75: Intermediate Mesoderm",
+      "target": "E8: Intermediate Mesoderm"
+    },
+    {
+      "source": "E7.75: Intermediate Mesoderm",
+      "target": "E8: Somitic Mesoderm"
+    },
+    {
+      "source": "E7.75: Mesenchyme",
+      "target": "E8: Mesenchyme"
+    },
+    {
+      "source": "E7.75: Paraxial Mesoderm",
+      "target": "E8: Paraxial Mesoderm"
+    },
+    {
+      "source": "E7.75: Cardiomyocytes",
+      "target": "E8: Cardiomyocytes"
+    },
+    {
+      "source": "E7.75: Pharyngeal Mesoderm",
+      "target": "E8: Pharyngeal Mesoderm"
+    },
+    {
+      "source": "E7.75: Def. Endoderm",
+      "target": "E8: Def. Endoderm"
+    },
+    {
+      "source": "E7.75: Gut",
+      "target": "E8: Gut"
+    },
+    {
+      "source": "E7.75: PGC",
+      "target": "E8: PGC"
+    },
+    {
+      "source": "E7.75: Caudal Mesoderm",
+      "target": "E8: Caudal Mesoderm"
+    },
+    {
+      "source": "E7.75: Notochord",
+      "target": "E8: Notochord"
+    },
+    {
+      "source": "E7.75: Extraembryonic Endoderm",
+      "target": "E8: Extraembryonic Endoderm"
+    },
+    {
+      "source": "E7.75: Parietal Endoderm",
+      "target": "E8: Parietal Endoderm"
+    },
+    {
+      "source": "E7.75: Extraembryonic Ectoderm",
+      "target": "E8: Extraembryonic Ectoderm"
+    },
+    {
+      "source": "E8: Neuroectoderm",
+      "target": "E8.25: Dorsal Neural Tube"
+    },
+    {
+      "source": "E8: Neuroectoderm",
+      "target": "E8.25: Neural Crest"
+    },
+    {
+      "source": "E8: Neuroectoderm",
+      "target": "E8.25: Neural Tube (Pax2+)"
+    },
+    {
+      "source": "E8: Neuroectoderm",
+      "target": "E8.25: Neuroectoderm"
+    },
+    {
+      "source": "E8: Surface Ectoderm",
+      "target": "E8.25: Surface Ectoderm"
+    },
+    {
+      "source": "E8: Blood Progenitors",
+      "target": "E8.25: Blood Progenitors"
+    },
+    {
+      "source": "E8: Primitive Erythroid",
+      "target": "E8.25: Primitive Erythroid"
+    },
+    {
+      "source": "E8: Endothelium",
+      "target": "E8.25: Endothelium"
+    },
+    {
+      "source": "E8: Hemato-Endothelial Progenitors",
+      "target": "E8.25: Hemato-endothelial Progenitors"
+    },
+    {
+      "source": "E8: Allantois",
+      "target": "E8.25: Allantois"
+    },
+    {
+      "source": "E8: Intermediate Mesoderm",
+      "target": "E8.25: Intermediate Mesoderm"
+    },
+    {
+      "source": "E8: Somitic Mesoderm",
+      "target": "E8.25: Somitic Mesoderm"
+    },
+    {
+      "source": "E8: Mesenchyme",
+      "target": "E8.25: Mesenchyme"
+    },
+    {
+      "source": "E8: Paraxial Mesoderm",
+      "target": "E8.25: Paraxial Mesoderm"
+    },
+    {
+      "source": "E8: Cardiomyocytes",
+      "target": "E8.25: Cardiomyocytes"
+    },
+    {
+      "source": "E8: Pharyngeal Mesoderm",
+      "target": "E8.25: Pharyngeal Mesoderm"
+    },
+    {
+      "source": "E8: Def. Endoderm",
+      "target": "E8.25: Def. Endoderm"
+    },
+    {
+      "source": "E8: Gut",
+      "target": "E8.25: Gut"
+    },
+    {
+      "source": "E8: PGC",
+      "target": "E8.25: PGC"
+    },
+    {
+      "source": "E8: Caudal Mesoderm",
+      "target": "E8.25: Nmp"
+    },
+    {
+      "source": "E8: Extraembryonic Endoderm",
+      "target": "E8.25: Extraembryonic Endoderm"
+    },
+    {
+      "source": "E8: Extraembryonic Ectoderm",
+      "target": "E8.25: Extraembryonic Ectoderm"
+    },
+    {
+      "source": "E8.25: Dorsal Neural Tube",
+      "target": "E8.5: Dorsal Neural Tube"
+    },
+    {
+      "source": "E8.25: Neural Crest",
+      "target": "E8.5: Neural Crest"
+    },
+    {
+      "source": "E8.25: Neural Tube (Pax2+)",
+      "target": "E8.5: Neural Tube (Pax2+)"
+    },
+    {
+      "source": "E8.25: Surface Ectoderm",
+      "target": "E8.5: Surface Ectoderm"
+    },
+    {
+      "source": "E8.25: Blood Progenitors",
+      "target": "E8.5: Blood Progenitors"
+    },
+    {
+      "source": "E8.25: Primitive Erythroid",
+      "target": "E8.5: Primitive Erythroid"
+    },
+    {
+      "source": "E8.25: Endothelium",
+      "target": "E8.5: Endothelium"
+    },
+    {
+      "source": "E8.25: Hemato-Endothelial Progenitors",
+      "target": "E8.5: Hemato-endothelial Progenitors"
+    },
+    {
+      "source": "E8.25: Allantois",
+      "target": "E8.5: Allantois"
+    },
+    {
+      "source": "E8.25: Intermediate Mesoderm",
+      "target": "E8.5: Intermediate Mesoderm"
+    },
+    {
+      "source": "E8.25: Somitic Mesoderm",
+      "target": "E8.5: Somitic Mesoderm"
+    },
+    {
+      "source": "E8.25: Mesenchyme",
+      "target": "E8.5: Mesenchyme"
+    },
+    {
+      "source": "E8.25: Paraxial Mesoderm",
+      "target": "E8.5: Paraxial Mesoderm"
+    },
+    {
+      "source": "E8.25: Cardiomyocytes",
+      "target": "E8.5: Cardiomyocytes"
+    },
+    {
+      "source": "E8.25: Pharyngeal Mesoderm",
+      "target": "E8.5: Pharyngeal Mesoderm"
+    },
+    {
+      "source": "E8.25: Def. Endoderm",
+      "target": "E8.5: Def. Endoderm"
+    },
+    {
+      "source": "E8.25: Gut",
+      "target": "E8.5: Gut"
+    },
+    {
+      "source": "E8.25: Nmp",
+      "target": "E8.5: Nmp"
+    },
+    {
+      "source": "E8.25: Extraembryonic Endoderm",
+      "target": "E8.5: Extraembryonic Endoderm"
+    },
+    {
+      "source": "E8.5: Dorsal Neural Tube",
+      "target": "E9.5: Dorsal Neural Tube"
+    },
+    {
+      "source": "E8.5: Dorsal Neural Tube",
+      "target": "E9.5: Neural Progenitor"
+    },
+    {
+      "source": "E8.5: Neural Crest",
+      "target": "E9.5: Neural Crest"
+    },
+    {
+      "source": "E8.5: Neural Tube (Pax2+)",
+      "target": "E9.5: Floor Plate"
+    },
+    {
+      "source": "E8.5: Neural Tube (Pax2+)",
+      "target": "E9.5: Isthmic Organizer Cells"
+    },
+    {
+      "source": "E8.5: Neural Tube (Pax2+)",
+      "target": "E9.5: Oligodendrocyte Progenitors"
+    },
+    {
+      "source": "E8.5: Neural Tube (Pax2+)",
+      "target": "E9.5: Radial Glia"
+    },
+    {
+      "source": "E8.5: Neural Tube (Pax2+)",
+      "target": "E9.5: Sensory Neuron"
+    },
+    {
+      "source": "E8.5: Surface Ectoderm",
+      "target": "E9.5: Epithelial Cells"
+    },
+    {
+      "source": "E8.5: Surface Ectoderm",
+      "target": "E9.5: Olfactory Epithelium"
+    },
+    {
+      "source": "E8.5: Surface Ectoderm",
+      "target": "E9.5: Otic Epithelium"
+    },
+    {
+      "source": "E8.5: Surface Ectoderm",
+      "target": "E9.5: Renal Epithelium"
+    },
+    {
+      "source": "E8.5: Surface Ectoderm",
+      "target": "E9.5: Urothelium"
+    },
+    {
+      "source": "E8.5: Blood Progenitors",
+      "target": "E9.5: Blood Progenitors"
+    },
+    {
+      "source": "E8.5: Primitive Erythroid",
+      "target": "E9.5: Primitive Erythroid"
+    },
+    {
+      "source": "E8.5: Endothelium",
+      "target": "E9.5: Endothelium"
+    },
+    {
+      "source": "E8.5: Intermediate Mesoderm",
+      "target": "E9.5: Intermediate Mesoderm"
+    },
+    {
+      "source": "E8.5: Intermediate Mesoderm",
+      "target": "E9.5: Limb Mesenchyme Progenitors"
+    },
+    {
+      "source": "E8.5: Somitic Mesoderm",
+      "target": "E9.5: Somitic Mesoderm"
+    },
+    {
+      "source": "E8.5: Mesenchyme",
+      "target": "E9.5: Mesenchyme"
+    },
+    {
+      "source": "E8.5: Paraxial Mesoderm",
+      "target": "E9.5: Chondrocyte Progenitors"
+    },
+    {
+      "source": "E8.5: Paraxial Mesoderm",
+      "target": "E9.5: Jaw And Tooth Progenitors"
+    },
+    {
+      "source": "E8.5: Paraxial Mesoderm",
+      "target": "E9.5: Osteoblast Progenitors"
+    },
+    {
+      "source": "E8.5: Paraxial Mesoderm",
+      "target": "E9.5: Skeletal Muscle Progenitors"
+    },
+    {
+      "source": "E8.5: Paraxial Mesoderm",
+      "target": "E9.5: Stromal Cells"
+    },
+    {
+      "source": "E8.5: Cardiomyocytes",
+      "target": "E9.5: Cardiomyocytes"
+    },
+    {
+      "source": "E8.5: Pharyngeal Mesoderm",
+      "target": "E9.5: Pharyngeal Mesoderm"
+    },
+    {
+      "source": "E8.5: Gut",
+      "target": "E9.5: Intestinal Epithelium"
+    },
+    {
+      "source": "E8.5: Nmp",
+      "target": "E9.5: Nmp"
+    },
+    {
+      "source": "E8.5: Extraembryonic Endoderm",
+      "target": "E9.5: Extraembryonic Endoderm"
+    },
+    {
+      "source": "E9.5: Dorsal Neural Tube",
+      "target": "E10.5: Dorsal Neural Tube"
+    },
+    {
+      "source": "E9.5: Neural Progenitor",
+      "target": "E10.5: Cholinergic Neuron"
+    },
+    {
+      "source": "E9.5: Neural Progenitor",
+      "target": "E10.5: Excitatory Neuron"
+    },
+    {
+      "source": "E9.5: Neural Progenitor",
+      "target": "E10.5: Granule Neuron"
+    },
+    {
+      "source": "E9.5: Neural Progenitor",
+      "target": "E10.5: Inhibitory Interneuron"
+    },
+    {
+      "source": "E9.5: Neural Progenitor",
+      "target": "E10.5: Inhibitory Neuron Progenitors"
+    },
+    {
+      "source": "E9.5: Neural Progenitor",
+      "target": "E10.5: Neural Progenitor"
+    },
+    {
+      "source": "E9.5: Neural Progenitor",
+      "target": "E10.5: Postmitotic Premature Neuron"
+    },
+    {
+      "source": "E9.5: Neural Crest",
+      "target": "E10.5: Neural Crest"
+    },
+    {
+      "source": "E9.5: Floor Plate",
+      "target": "E10.5: Floor Plate"
+    },
+    {
+      "source": "E9.5: Isthmic Organizer Cells",
+      "target": "E10.5: Isthmic Organizer Cells"
+    },
+    {
+      "source": "E9.5: Oligodendrocyte Progenitors",
+      "target": "E10.5: Ependymal Cells"
+    },
+    {
+      "source": "E9.5: Oligodendrocyte Progenitors",
+      "target": "E10.5: Oligodendrocyte Progenitors"
+    },
+    {
+      "source": "E9.5: Radial Glia",
+      "target": "E10.5: Radial Glia"
+    },
+    {
+      "source": "E9.5: Sensory Neuron",
+      "target": "E10.5: Sensory Neuron"
+    },
+    {
+      "source": "E9.5: Sensory Neuron",
+      "target": "E10.5: Sensory Neuron (Cacna1E+)"
+    },
+    {
+      "source": "E9.5: Epithelial Cells",
+      "target": "E10.5: Epithelial Cells"
+    },
+    {
+      "source": "E9.5: Olfactory Epithelium",
+      "target": "E10.5: Olfactory Epithelium"
+    },
+    {
+      "source": "E9.5: Otic Epithelium",
+      "target": "E10.5: Otic Epithelium"
+    },
+    {
+      "source": "E9.5: Renal Epithelium",
+      "target": "E10.5: Renal Epithelium"
+    },
+    {
+      "source": "E9.5: Urothelium",
+      "target": "E10.5: Urothelium"
+    },
+    {
+      "source": "E9.5: Blood Progenitors",
+      "target": "E10.5: Megakaryocytes"
+    },
+    {
+      "source": "E9.5: Blood Progenitors",
+      "target": "E10.5: White Blood Cells"
+    },
+    {
+      "source": "E9.5: Primitive Erythroid",
+      "target": "E10.5: Primitive Erythroid"
+    },
+    {
+      "source": "E9.5: Endothelium",
+      "target": "E10.5: Endothelium"
+    },
+    {
+      "source": "E9.5: Intermediate Mesoderm",
+      "target": "E10.5: Intermediate Mesoderm"
+    },
+    {
+      "source": "E9.5: Limb Mesenchyme Progenitors",
+      "target": "E10.5: Limb Mesenchyme Progenitors"
+    },
+    {
+      "source": "E9.5: Mesenchyme",
+      "target": "E10.5: Mesenchyme"
+    },
+    {
+      "source": "E9.5: Chondrocyte Progenitors",
+      "target": "E10.5: Early Chondrocyte"
+    },
+    {
+      "source": "E9.5: Jaw And Tooth Progenitors",
+      "target": "E10.5: Jaw And Tooth Progenitors"
+    },
+    {
+      "source": "E9.5: Osteoblast Progenitors",
+      "target": "E10.5: Chondrocyte And Osteoblast"
+    },
+    {
+      "source": "E9.5: Osteoblast Progenitors",
+      "target": "E10.5: Osteoblast Progenitors"
+    },
+    {
+      "source": "E9.5: Skeletal Muscle Progenitors",
+      "target": "E10.5: Myocytes"
+    },
+    {
+      "source": "E9.5: Skeletal Muscle Progenitors",
+      "target": "E10.5: Skeletal Muscle Progenitors"
+    },
+    {
+      "source": "E9.5: Stromal Cells",
+      "target": "E10.5: Stromal Cells"
+    },
+    {
+      "source": "E9.5: Cardiomyocytes",
+      "target": "E10.5: Cardiomyocytes"
+    },
+    {
+      "source": "E9.5: Intestinal Epithelium",
+      "target": "E10.5: Hepatocytes"
+    },
+    {
+      "source": "E9.5: Intestinal Epithelium",
+      "target": "E10.5: Intestinal Epithelium"
+    },
+    {
+      "source": "E10.5: Dorsal Neural Tube",
+      "target": "E11.5: Dorsal Neural Tube"
+    },
+    {
+      "source": "E10.5: Cholinergic Neuron",
+      "target": "E11.5: Cholinergic Neuron"
+    },
+    {
+      "source": "E10.5: Excitatory Neuron",
+      "target": "E11.5: Excitatory Neuron"
+    },
+    {
+      "source": "E10.5: Granule Neuron",
+      "target": "E11.5: Granule Neuron"
+    },
+    {
+      "source": "E10.5: Inhibitory Interneuron",
+      "target": "E11.5: Inhibitory Interneuron"
+    },
+    {
+      "source": "E10.5: Inhibitory Neuron Progenitors",
+      "target": "E11.5: Inhibitory Neuron"
+    },
+    {
+      "source": "E10.5: Inhibitory Neuron Progenitors",
+      "target": "E11.5: Inhibitory Neuron Progenitors"
+    },
+    {
+      "source": "E10.5: Neural Progenitor",
+      "target": "E11.5: Neural Progenitor"
+    },
+    {
+      "source": "E10.5: Postmitotic Premature Neuron",
+      "target": "E11.5: Postmitotic Premature Neuron"
+    },
+    {
+      "source": "E10.5: Neural Crest",
+      "target": "E11.5: Neural Crest"
+    },
+    {
+      "source": "E10.5: Floor Plate",
+      "target": "E11.5: Floor Plate"
+    },
+    {
+      "source": "E10.5: Isthmic Organizer Cells",
+      "target": "E11.5: Isthmic Organizer Cells"
+    },
+    {
+      "source": "E10.5: Ependymal Cells",
+      "target": "E11.5: Ependymal Cells"
+    },
+    {
+      "source": "E10.5: Oligodendrocyte Progenitors",
+      "target": "E11.5: Oligodendrocyte Progenitors"
+    },
+    {
+      "source": "E10.5: Oligodendrocyte Progenitors",
+      "target": "E11.5: Premature Oligodendrocyte"
+    },
+    {
+      "source": "E10.5: Radial Glia",
+      "target": "E11.5: Radial Glia"
+    },
+    {
+      "source": "E10.5: Sensory Neuron",
+      "target": "E11.5: Sensory Neuron"
+    },
+    {
+      "source": "E10.5: Sensory Neuron (Cacna1E+)",
+      "target": "E11.5: Sensory Neuron (Cacna1E+)"
+    },
+    {
+      "source": "E10.5: Epithelial Cells",
+      "target": "E11.5: Epithelial Cells"
+    },
+    {
+      "source": "E10.5: Epithelial Cells",
+      "target": "E11.5: Pericardium"
+    },
+    {
+      "source": "E10.5: Olfactory Epithelium",
+      "target": "E11.5: Olfactory Epithelium"
+    },
+    {
+      "source": "E10.5: Otic Epithelium",
+      "target": "E11.5: Otic Epithelium"
+    },
+    {
+      "source": "E10.5: Renal Epithelium",
+      "target": "E11.5: Renal Epithelium"
+    },
+    {
+      "source": "E10.5: Urothelium",
+      "target": "E11.5: Urothelium"
+    },
+    {
+      "source": "E10.5: Megakaryocytes",
+      "target": "E11.5: Megakaryocytes"
+    },
+    {
+      "source": "E10.5: White Blood Cells",
+      "target": "E11.5: White Blood Cells"
+    },
+    {
+      "source": "E10.5: Primitive Erythroid",
+      "target": "E11.5: Def. Erythrocyte"
+    },
+    {
+      "source": "E10.5: Primitive Erythroid",
+      "target": "E11.5: Primitive Erythroid"
+    },
+    {
+      "source": "E10.5: Endothelium",
+      "target": "E11.5: Endothelium"
+    },
+    {
+      "source": "E10.5: Intermediate Mesoderm",
+      "target": "E11.5: Intermediate Mesoderm"
+    },
+    {
+      "source": "E10.5: Limb Mesenchyme Progenitors",
+      "target": "E11.5: Limb Mesenchyme Progenitors"
+    },
+    {
+      "source": "E10.5: Early Chondrocyte",
+      "target": "E11.5: Early Chondrocyte"
+    },
+    {
+      "source": "E10.5: Jaw And Tooth Progenitors",
+      "target": "E11.5: Jaw And Tooth Progenitors"
+    },
+    {
+      "source": "E10.5: Chondrocyte And Osteoblast",
+      "target": "E11.5: Chondrocyte And Osteoblast"
+    },
+    {
+      "source": "E10.5: Osteoblast Progenitors",
+      "target": "E11.5: Connective Tissue Progenitors"
+    },
+    {
+      "source": "E10.5: Myocytes",
+      "target": "E11.5: Myocytes"
+    },
+    {
+      "source": "E10.5: Skeletal Muscle Progenitors",
+      "target": "E11.5: Skeletal Muscle Progenitors"
+    },
+    {
+      "source": "E10.5: Stromal Cells",
+      "target": "E11.5: Stromal Cells"
+    },
+    {
+      "source": "E10.5: Cardiomyocytes",
+      "target": "E11.5: Cardiomyocytes"
+    },
+    {
+      "source": "E10.5: Hepatocytes",
+      "target": "E11.5: Hepatocytes"
+    },
+    {
+      "source": "E10.5: Intestinal Epithelium",
+      "target": "E11.5: Intestinal Epithelium"
+    },
+    {
+      "source": "E11.5: Cholinergic Neuron",
+      "target": "E12.5: Cholinergic Neuron"
+    },
+    {
+      "source": "E11.5: Excitatory Neuron",
+      "target": "E12.5: Excitatory Neuron"
+    },
+    {
+      "source": "E11.5: Granule Neuron",
+      "target": "E12.5: Granule Neuron"
+    },
+    {
+      "source": "E11.5: Inhibitory Interneuron",
+      "target": "E12.5: Inhibitory Interneuron"
+    },
+    {
+      "source": "E11.5: Inhibitory Neuron",
+      "target": "E12.5: Inhibitory Neuron"
+    },
+    {
+      "source": "E11.5: Inhibitory Neuron Progenitors",
+      "target": "E12.5: Inhibitory Neuron Progenitors"
+    },
+    {
+      "source": "E11.5: Neural Progenitor",
+      "target": "E12.5: Neural Progenitor"
+    },
+    {
+      "source": "E11.5: Postmitotic Premature Neuron",
+      "target": "E12.5: Postmitotic Premature Neuron"
+    },
+    {
+      "source": "E11.5: Neural Crest",
+      "target": "E12.5: Neural Crest"
+    },
+    {
+      "source": "E11.5: Floor Plate",
+      "target": "E12.5: Floor Plate"
+    },
+    {
+      "source": "E11.5: Isthmic Organizer Cells",
+      "target": "E12.5: Isthmic Organizer Cells"
+    },
+    {
+      "source": "E11.5: Ependymal Cells",
+      "target": "E12.5: Ependymal Cells"
+    },
+    {
+      "source": "E11.5: Oligodendrocyte Progenitors",
+      "target": "E12.5: Oligodendrocyte Progenitors"
+    },
+    {
+      "source": "E11.5: Premature Oligodendrocyte",
+      "target": "E12.5: Premature Oligodendrocyte"
+    },
+    {
+      "source": "E11.5: Radial Glia",
+      "target": "E12.5: Radial Glia"
+    },
+    {
+      "source": "E11.5: Sensory Neuron",
+      "target": "E12.5: Sensory Neuron"
+    },
+    {
+      "source": "E11.5: Sensory Neuron (Cacna1E+)",
+      "target": "E12.5: Sensory Neuron (Cacna1E+)"
+    },
+    {
+      "source": "E11.5: Epithelial Cells",
+      "target": "E12.5: Epithelial Cells"
+    },
+    {
+      "source": "E11.5: Pericardium",
+      "target": "E12.5: Pericardium"
+    },
+    {
+      "source": "E11.5: Olfactory Epithelium",
+      "target": "E12.5: Olfactory Epithelium"
+    },
+    {
+      "source": "E11.5: Otic Epithelium",
+      "target": "E12.5: Otic Epithelium"
+    },
+    {
+      "source": "E11.5: Otic Epithelium",
+      "target": "E12.5: Retina Epithelium"
+    },
+    {
+      "source": "E11.5: Renal Epithelium",
+      "target": "E12.5: Renal Epithelium"
+    },
+    {
+      "source": "E11.5: Urothelium",
+      "target": "E12.5: Urothelium"
+    },
+    {
+      "source": "E11.5: Megakaryocytes",
+      "target": "E12.5: Megakaryocytes"
+    },
+    {
+      "source": "E11.5: White Blood Cells",
+      "target": "E12.5: White Blood Cells"
+    },
+    {
+      "source": "E11.5: Def. Erythrocyte",
+      "target": "E12.5: Def. Erythrocyte"
+    },
+    {
+      "source": "E11.5: Endothelium",
+      "target": "E12.5: Endothelium"
+    },
+    {
+      "source": "E11.5: Intermediate Mesoderm",
+      "target": "E12.5: Intermediate Mesoderm"
+    },
+    {
+      "source": "E11.5: Limb Mesenchyme Progenitors",
+      "target": "E12.5: Limb Mesenchyme Progenitors"
+    },
+    {
+      "source": "E11.5: Early Chondrocyte",
+      "target": "E12.5: Early Chondrocyte"
+    },
+    {
+      "source": "E11.5: Jaw And Tooth Progenitors",
+      "target": "E12.5: Jaw And Tooth Progenitors"
+    },
+    {
+      "source": "E11.5: Chondrocyte And Osteoblast",
+      "target": "E12.5: Chondrocyte And Osteoblast"
+    },
+    {
+      "source": "E11.5: Chondrocyte And Osteoblast",
+      "target": "E12.5: Osteoblast"
+    },
+    {
+      "source": "E11.5: Connective Tissue Progenitors",
+      "target": "E12.5: Connective Tissue Progenitors"
+    },
+    {
+      "source": "E11.5: Myocytes",
+      "target": "E12.5: Myocytes"
+    },
+    {
+      "source": "E11.5: Skeletal Muscle Progenitors",
+      "target": "E12.5: Skeletal Muscle Progenitors"
+    },
+    {
+      "source": "E11.5: Stromal Cells",
+      "target": "E12.5: Stromal Cells"
+    },
+    {
+      "source": "E11.5: Cardiomyocytes",
+      "target": "E12.5: Cardiomyocytes"
+    },
+    {
+      "source": "E11.5: Hepatocytes",
+      "target": "E12.5: Hepatocytes"
+    },
+    {
+      "source": "E11.5: Intestinal Epithelium",
+      "target": "E12.5: Intestinal Epithelium"
+    },
+    {
+      "source": "E12.5: Excitatory Neuron",
+      "target": "E13.5: Excitatory Neuron"
+    },
+    {
+      "source": "E12.5: Granule Neuron",
+      "target": "E13.5: Granule Neuron"
+    },
+    {
+      "source": "E12.5: Inhibitory Interneuron",
+      "target": "E13.5: Inhibitory Interneuron"
+    },
+    {
+      "source": "E12.5: Inhibitory Neuron",
+      "target": "E13.5: Inhibitory Neuron"
+    },
+    {
+      "source": "E12.5: Inhibitory Neuron Progenitors",
+      "target": "E13.5: Inhibitory Neuron Progenitors"
+    },
+    {
+      "source": "E12.5: Neural Progenitor",
+      "target": "E13.5: Neural Progenitor"
+    },
+    {
+      "source": "E12.5: Postmitotic Premature Neuron",
+      "target": "E13.5: Postmitotic Premature Neuron"
+    },
+    {
+      "source": "E12.5: Neural Crest",
+      "target": "E13.5: Neural Crest"
+    },
+    {
+      "source": "E12.5: Floor Plate",
+      "target": "E13.5: Floor Plate"
+    },
+    {
+      "source": "E12.5: Isthmic Organizer Cells",
+      "target": "E13.5: Isthmic Organizer Cells"
+    },
+    {
+      "source": "E12.5: Ependymal Cells",
+      "target": "E13.5: Ependymal Cells"
+    },
+    {
+      "source": "E12.5: Oligodendrocyte Progenitors",
+      "target": "E13.5: Oligodendrocyte Progenitors"
+    },
+    {
+      "source": "E12.5: Premature Oligodendrocyte",
+      "target": "E13.5: Premature Oligodendrocyte"
+    },
+    {
+      "source": "E12.5: Radial Glia",
+      "target": "E13.5: Radial Glia"
+    },
+    {
+      "source": "E12.5: Sensory Neuron",
+      "target": "E13.5: Sensory Neuron"
+    },
+    {
+      "source": "E12.5: Sensory Neuron (Cacna1E+)",
+      "target": "E13.5: Sensory Neuron (Cacna1E+)"
+    },
+    {
+      "source": "E12.5: Epithelial Cells",
+      "target": "E13.5: Epithelial Cells"
+    },
+    {
+      "source": "E12.5: Pericardium",
+      "target": "E13.5: Pericardium"
+    },
+    {
+      "source": "E12.5: Olfactory Epithelium",
+      "target": "E13.5: Olfactory Epithelium"
+    },
+    {
+      "source": "E12.5: Otic Epithelium",
+      "target": "E13.5: Otic Epithelium"
+    },
+    {
+      "source": "E12.5: Retina Epithelium",
+      "target": "E13.5: Retina Epithelium"
+    },
+    {
+      "source": "E12.5: Renal Epithelium",
+      "target": "E13.5: Renal Epithelium"
+    },
+    {
+      "source": "E12.5: Urothelium",
+      "target": "E13.5: Urothelium"
+    },
+    {
+      "source": "E12.5: Megakaryocytes",
+      "target": "E13.5: Megakaryocytes"
+    },
+    {
+      "source": "E12.5: White Blood Cells",
+      "target": "E13.5: White Blood Cells"
+    },
+    {
+      "source": "E12.5: Def. Erythrocyte",
+      "target": "E13.5: Def. Erythrocyte"
+    },
+    {
+      "source": "E12.5: Endothelium",
+      "target": "E13.5: Endothelium"
+    },
+    {
+      "source": "E12.5: Intermediate Mesoderm",
+      "target": "E13.5: Intermediate Mesoderm"
+    },
+    {
+      "source": "E12.5: Limb Mesenchyme Progenitors",
+      "target": "E13.5: Limb Mesenchyme Progenitors"
+    },
+    {
+      "source": "E12.5: Early Chondrocyte",
+      "target": "E13.5: Early Chondrocyte"
+    },
+    {
+      "source": "E12.5: Jaw And Tooth Progenitors",
+      "target": "E13.5: Jaw And Tooth Progenitors"
+    },
+    {
+      "source": "E12.5: Chondrocyte And Osteoblast",
+      "target": "E13.5: Chondrocyte And Osteoblast"
+    },
+    {
+      "source": "E12.5: Osteoblast",
+      "target": "E13.5: Osteoblast"
+    },
+    {
+      "source": "E12.5: Connective Tissue Progenitors",
+      "target": "E13.5: Connective Tissue Progenitors"
+    },
+    {
+      "source": "E12.5: Myocytes",
+      "target": "E13.5: Myocytes"
+    },
+    {
+      "source": "E12.5: Stromal Cells",
+      "target": "E13.5: Stromal Cells"
+    },
+    {
+      "source": "E12.5: Cardiomyocytes",
+      "target": "E13.5: Cardiomyocytes"
+    },
+    {
+      "source": "E12.5: Hepatocytes",
+      "target": "E13.5: Hepatocytes"
+    },
+    {
+      "source": "E12.5: Intestinal Epithelium",
+      "target": "E13.5: Intestinal Epithelium"
+    }
+  ]
+}
