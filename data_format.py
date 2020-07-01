@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+# This script is made to reformat a specific .json file for another purpose
 # Input: https://raw.githubusercontent.com/ChengxiangQiu/tree/master/mouse.json
 # Output: https://raw.githubusercontent.com/akash-shendure/TOME/master/data.json
 
@@ -8,7 +9,7 @@
 
 import json
 
-# Set whether or not the output will by pretty printed
+# Set whether or not the output will be pretty printed
 
 pretty_printing = 1
 
@@ -62,7 +63,7 @@ groups = {
 id_replacements = [
     ['Exe', 'Extraembryonic'],
     ['Prog.', 'Progenitors'],
-    ['Haematoendothelial', 'Hemato-endothelial'],
+    ['Haematoendothelial', 'Hemato-Edothelial'],
     ['Te', 'TE'],
     ['Icm', 'ICM'],
     ['Pgc', 'PGC'],
@@ -181,7 +182,7 @@ def create_links(data):
 infile = open(infile_name, 'r')
 outfile = open(outfile_name, 'w')
 
-# Rework the data from the input dictionary into an ouput dictionary
+# Reformat the data from the input dictionary into an ouput dictionary
 
 data = json.load(infile)
 data = reformat(clean(expand(data), del_keys), groups, id_replacements)
