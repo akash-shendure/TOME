@@ -101,7 +101,7 @@
       "group": 6
     },
     {
-      "id": "E7: Hemato-endothelial Progenitors",
+      "id": "E7: Hemato-Edothelial Progenitors",
       "group": 6
     },
     {
@@ -137,7 +137,7 @@
       "group": 7
     },
     {
-      "id": "E7.25: Hemato-endothelial Progenitors",
+      "id": "E7.25: Hemato-Edothelial Progenitors",
       "group": 7
     },
     {
@@ -197,7 +197,7 @@
       "group": 8
     },
     {
-      "id": "E7.5: Hemato-endothelial Progenitors",
+      "id": "E7.5: Hemato-Edothelial Progenitors",
       "group": 8
     },
     {
@@ -281,7 +281,7 @@
       "group": 9
     },
     {
-      "id": "E7.75: Hemato-endothelial Progenitors",
+      "id": "E7.75: Hemato-Edothelial Progenitors",
       "group": 9
     },
     {
@@ -365,7 +365,7 @@
       "group": 10
     },
     {
-      "id": "E8: Hemato-endothelial Progenitors",
+      "id": "E8: Hemato-Edothelial Progenitors",
       "group": 10
     },
     {
@@ -461,7 +461,7 @@
       "group": 11
     },
     {
-      "id": "E8.25: Hemato-endothelial Progenitors",
+      "id": "E8.25: Hemato-Edothelial Progenitors",
       "group": 11
     },
     {
@@ -545,7 +545,7 @@
       "group": 12
     },
     {
-      "id": "E8.5: Hemato-endothelial Progenitors",
+      "id": "E8.5: Hemato-Edothelial Progenitors",
       "group": 12
     },
     {
@@ -1448,7 +1448,7 @@
     },
     {
       "source": "E6.75: Nascent Mesoderm",
-      "target": "E7: Hemato-endothelial Progenitors"
+      "target": "E7: Hemato-Edothelial Progenitors"
     },
     {
       "source": "E6.75: Nascent Mesoderm",
@@ -1483,8 +1483,8 @@
       "target": "E7.25: Epiblast"
     },
     {
-      "source": "E7: Hemato-Endothelial Progenitors",
-      "target": "E7.25: Hemato-endothelial Progenitors"
+      "source": "E7: Hemato-Edothelial Progenitors",
+      "target": "E7.25: Hemato-Edothelial Progenitors"
     },
     {
       "source": "E7: Nascent Mesoderm",
@@ -1539,12 +1539,12 @@
       "target": "E7.5: Surface Ectoderm"
     },
     {
-      "source": "E7.25: Hemato-endothelial Progenitors",
+      "source": "E7.25: Hemato-Edothelial Progenitors",
       "target": "E7.5: Blood Progenitors"
     },
     {
-      "source": "E7.25: Hemato-Endothelial Progenitors",
-      "target": "E7.5: Hemato-endothelial Progenitors"
+      "source": "E7.25: Hemato-Edothelial Progenitors",
+      "target": "E7.5: Hemato-Edothelial Progenitors"
     },
     {
       "source": "E7.25: Mesenchyme",
@@ -1623,12 +1623,12 @@
       "target": "E7.75: Primitive Erythroid"
     },
     {
-      "source": "E7.5: Hemato-endothelial Progenitors",
+      "source": "E7.5: Hemato-Edothelial Progenitors",
       "target": "E7.75: Endothelium"
     },
     {
-      "source": "E7.5: Hemato-Endothelial Progenitors",
-      "target": "E7.75: Hemato-endothelial Progenitors"
+      "source": "E7.5: Hemato-Edothelial Progenitors",
+      "target": "E7.75: Hemato-Edothelial Progenitors"
     },
     {
       "source": "E7.5: Intermediate Mesoderm",
@@ -1711,8 +1711,8 @@
       "target": "E8: Endothelium"
     },
     {
-      "source": "E7.75: Hemato-Endothelial Progenitors",
-      "target": "E8: Hemato-endothelial Progenitors"
+      "source": "E7.75: Hemato-Edothelial Progenitors",
+      "target": "E8: Hemato-Edothelial Progenitors"
     },
     {
       "source": "E7.75: Allantois",
@@ -1807,8 +1807,8 @@
       "target": "E8.25: Endothelium"
     },
     {
-      "source": "E8: Hemato-Endothelial Progenitors",
-      "target": "E8.25: Hemato-endothelial Progenitors"
+      "source": "E8: Hemato-Edothelial Progenitors",
+      "target": "E8.25: Hemato-Edothelial Progenitors"
     },
     {
       "source": "E8: Allantois",
@@ -1891,8 +1891,8 @@
       "target": "E8.5: Endothelium"
     },
     {
-      "source": "E8.25: Hemato-Endothelial Progenitors",
-      "target": "E8.5: Hemato-endothelial Progenitors"
+      "source": "E8.25: Hemato-Edothelial Progenitors",
+      "target": "E8.5: Hemato-Edothelial Progenitors"
     },
     {
       "source": "E8.25: Allantois",
