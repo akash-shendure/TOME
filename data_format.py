@@ -67,7 +67,8 @@ id_replacements = [
     ['Te', 'TE'],
     ['Icm', 'ICM'],
     ['Pgc', 'PGC'],
-    ['Murola', 'Morula']
+    ['Murola', 'Morula'],
+    ['Edothelial', 'Endothelial']
     ]
 
 
