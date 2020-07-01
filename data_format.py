@@ -63,7 +63,7 @@ groups = {
 id_replacements = [
     ['Exe', 'Extraembryonic'],
     ['Prog.', 'Progenitors'],
-    ['Haematoendothelial', 'Hemato-Edothelial'],
+    ['Haematoendothelial', 'Hemato-Endothelial'],
     ['Te', 'TE'],
     ['Icm', 'ICM'],
     ['Pgc', 'PGC'],
